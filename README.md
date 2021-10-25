@@ -13,7 +13,7 @@
 - 🦠 SARS-CoV-2 Science Nerdery
 - 🎼 Choral Music
 - 🤓 Sociable Geek  
-- 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra)
+- 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra?src=hashtag_click)
 
 ### I can do
 - 🏭 Microsoft Dynamics 365 Finance & Operations
