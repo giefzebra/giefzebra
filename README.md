@@ -11,4 +11,3 @@
 - ✨ Microsoft Dynamics 365 Dataverse
 - 🌐 OData (📯 Postman, ⚡ ThunderClient)
 - 🎨 BPMN 2.0
-- 
