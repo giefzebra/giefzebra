@@ -11,6 +11,7 @@
 - 📚 Stoic Philosophy 
 - 🧭 Geopolitics
 - 🎼 Choral Music
+- ❄️ Climate Emergency
 - 🤓 Sociable Geek  
 - 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra?src=hashtag_click)
 
