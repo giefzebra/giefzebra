@@ -10,7 +10,6 @@
 - 🤖 Human Centred AI
 - 📚 Stoic Philosophy 
 - 🧭 Geopolitics
-- 🦠 SARS-CoV-2 Science Nerdery
 - 🎼 Choral Music
 - 🤓 Sociable Geek  
 - 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra?src=hashtag_click)
