@@ -11,7 +11,6 @@
 ### Out of School
 - 🤖 Human Centred AI
 - 📚 Stoic Philosophy 
-- 🧭 Geopolitics
 - 🎼 Choral Music
 
 ### I can do
