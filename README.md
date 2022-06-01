@@ -1,10 +1,9 @@
 ## Hi, I'm Sam! 👋
-🌌 Data Architect @ [HSO](https://www.hso.com). Shaping the sea of data to design business solutions for our clients
+🌌 Enterprise Architect @ [HSO](https://www.hso.com). 
 
 ### About me
 - 👨 He/Him
 - 🤓 Sociable Geek  
-- 🏗️ Dynamics 365 Architect (Enterprise, Data, Solution) (Finance & Operations, Customer Engagement, Power Platform)
 - 🏠 Cambridge, United Kingdom
 - 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra?src=hashtag_click)
 
