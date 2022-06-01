@@ -3,15 +3,15 @@
 
 ### About me
 - 👨 He/Him
-- 🏠 Cambridge, United Kingdom
-- 🏗️ Dynamics 365 Solution Architect (Finance & Operations, Customer Engagement, Power Platform)
 - 🤓 Sociable Geek  
+- 🏗️ Dynamics 365 Architect (Enterprise, Data, Solution) (Finance & Operations, Customer Engagement, Power Platform)
+- 🏠 Cambridge, United Kingdom
 - 🦓 Still want that [#InvestecZebra](https://twitter.com/hashtag/investeczebra?src=hashtag_click)
 
 ### Out of School
 - 🤖 Human Centred AI
-- 📚 Stoic Philosophy 
-- 🎼 Choral Music
+- 🎼 Choral / Classical /Any Music
+- 📚 Absurdism, Existentialism & Stocism
 
 ### I can do
 - 🏭 Microsoft Dynamics 365 Finance & Operations
